@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Steven Fortes
 
-<!--
-**stivenfortes/stivenfortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Devgo.org
-- 🌱 I’m currently learning ASP .NET
-- 💬 Ask me about ReactJS, Android
-- 📫 How to reach me: https://stevenfortes.tech/
+- 🌱 I realy love web development and currently I'm learning ASP.NET
+- 💬 You can ask me about ReactJS, NodeJs, CSS, Android and more ...
+- 📫 Reach me out: https://stevenfortes.tech/
 
